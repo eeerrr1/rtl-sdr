@@ -687,6 +687,7 @@ static rtlsdr_dongle_t known_devices[] = {
 	{ 0x1b80, 0xd3af, "SVEON STV27 DVB-T USB & FM" },
 	{ 0x1b80, 0xd3b0, "SVEON STV21 DVB-T USB & FM" },
 	{ 0x1d19, 0x1101, "Dexatek DK DVB-T Dongle (Logilink VG0002A)" },
+        { 0xEd19, 0x1101, "WTSSDR (WTSSDR 0013)" },
 	{ 0x1d19, 0x1102, "Dexatek DK DVB-T Dongle (MSI DigiVox mini II V3.0)" },
 	{ 0x1d19, 0x1103, "Dexatek Technology Ltd. DK 5217 DVB-T Dongle" },
 	{ 0x1d19, 0x1104, "MSI DigiVox Micro HD" },
